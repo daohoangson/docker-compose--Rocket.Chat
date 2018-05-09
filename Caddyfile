@@ -1,0 +1,6 @@
+rocketchat20180502.xfrocks.com
+
+proxy / rocketchat:3000 {
+  transparent
+  websocket
+}
